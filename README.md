@@ -26,8 +26,10 @@
 
 ### 📊 GitHub Activity & Analytics
 
+
 <p align="center">
-  <img src="https://stardev.io/developers/rakeshpanchal687/badge/languages/detail.svg" alt="Languages Breakdown" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rakeshpanchal687&theme=tokyonight" alt="GitHub Summary" />
+</p>
 </p>
 
 <p align="center">
