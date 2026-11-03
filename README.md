@@ -23,7 +23,16 @@ Passionate learner exploring the worlds of **Python**, **Java**, and **Backend D
   <img src="https://github-readme-stats.vercel.app/api?username=rakeshpanchal687&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshpanchal687&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+### 📊 GitHub Analytics
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rakeshpanchal687&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshpanchal687&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakeshpanchal687&theme=radical" alt="GitHub Streak" />
+</p>
 ---
 
 ### 📬 Connect With Me
