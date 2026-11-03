@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=180&section=header&text=Hi%20there,%20I'm%20Rakesh%20Panchal&fontSize=42&animation=fadeIn&fontAlignY=38" alt="Banner" width="100%"/>
+</p>
 # Hi there, I'm Rakesh Panchal 👋
 
 Passionate learner exploring the worlds of **Python**, **Java**, and **Backend Development**. Always eager to build scalable projects and learn new technologies.
